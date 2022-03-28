@@ -12,4 +12,6 @@ public class BoardController {
     public String list(){
         return "board/list";
     }
+
+
 }
